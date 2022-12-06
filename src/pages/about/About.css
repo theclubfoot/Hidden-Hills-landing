@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,300;1,400;1,500;1,600&display=swap');
+
+.about-us{
+    /* background-color: aquamarine; */
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    /* margin: 50px 0; */
+    padding: 100px 0;
+
+
+}
+.about-detail{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+
+}
+
+.about-detail>h3{
+    font-size: 32px;
+    margin-bottom: 15px;
+    /* text-align: center; */
+}
+.about-detail>p{
+    /* max-width: 1100px; */
+    /* text-align: center; */
+}
+
+.team{
+
+}
+
